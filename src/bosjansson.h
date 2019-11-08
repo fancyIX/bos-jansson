@@ -12,6 +12,7 @@
 #include <stdio.h>
 #include <stdlib.h>  /* for size_t */
 #include <stdarg.h>
+#include <stdint.h>
 
 #include "jansson_config.h"
 
